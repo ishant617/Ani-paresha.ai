@@ -1,0 +1,6 @@
+{
+  "name": "Agnipariksha.AI",
+  "description": "Continuous Integration & Adversarial Evaluation platform for testing autonomous AI agents, tool-call loops, and safety violations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
